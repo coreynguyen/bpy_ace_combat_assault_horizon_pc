@@ -18,6 +18,9 @@
 
 The **Ace Combat Assault Horizon Blender Import Script** is a Python tool designed to import 3D models from **Ace Combat Assault Horizon** into Blender. Written for **Blender version 2.92.0**, this script leverages memory dump data from the PS3 version of **Ace Combat Infinity** to facilitate the extraction and visualization of game assets within Blender, enabling users to work with hero, NPC, and destroyed aircraft meshes along with their corresponding textures.
 
+![Ace Combat Assault Horizon](assets/Image1.jpg)
+
+
 ---
 
 ## Features
